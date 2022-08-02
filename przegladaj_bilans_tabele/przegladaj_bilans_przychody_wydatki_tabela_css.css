@@ -1,0 +1,57 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	font-family: 'Courier', sans-serif;
+  width: 100%;
+	font-size: 20px;
+	margin: 0 !important;
+}
+#select_field
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 40%;
+  padding: 30px;
+  text-align: center;
+  border: 3px solid #118a7e;
+  border-radius: 25px;
+}
+.modal_font{
+  background-color: #ffffff;
+  color: #303030;
+	font-family: 'Courier', sans-serif;
+}
+.wrapper
+{
+  white-space: nowrap;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 80%;
+}
+.my_border{
+  text-align: center;
+  border: 3px solid #118a7e;
+  border-radius: 10px;
+  height: 100%;
+}
+.table_frame
+{
+  display: inline-block;
+	width: 48%;
+}
+
+th, td {
+  font-size: 15px;
+  width: 100%;
+  border: 1px solid #118a7e;
+  border-radius: 5px;
+}
+th{
+  background-color: pink;
+  color: black;
+}
